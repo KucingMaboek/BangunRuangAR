@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Test" size="100.000000 67.302452" />
+    <ImageTarget name="kubus" size="100.000000 89.772728" />
+    <ImageTarget name="balok" size="100.000000 93.918922" />
+    <ImageTarget name="ball" size="100.000000 93.333336" />
+    <ImageTarget name="cylinder" size="100.000000 94.968552" />
+    <ImageTarget name="limas" size="100.000000 92.763161" />
+    <ImageTarget name="prisma" size="100.000000 94.117645" />
+    <ImageTarget name="cone" size="100.000000 90.303032" />
+  </Tracking>
+</QCARConfig>
